@@ -16,6 +16,6 @@
 Segundo Atlas Brasileiro de Desastres Naturais, 1991 a 2010 (https://s2id.mi.gov.br/paginas/atlas/) já foi registrados 39.000 casos de desastres no Brasil neste período, contabilizando 126.926.656 afetados.
 São 11 as categorias de desastres que acontecem no Brasil: Estiagem e seca, Enxurrada, Inundação, Vendavais, Granizo, Movimento de Massa, Erosão, Incêndio, Tornado, Alagamento e Geada. As que mais geram número de afetados são Estiagem e seca, enxurradas e inundações sendo estiagem e seca responsável por mais de 50% no número de afetados por desastres no Brasil. Mas são as enxurradas as maiores responsáveis por número de mortos por desastres no Brasil (CEPED, 2013).
 
-![Alt text](relative/path/to/img.jpg?raw=true "Screen Shot 2018-09-05 at 10.14.08")
+![screen shot 2018-09-05 at 10 14 08](https://user-images.githubusercontent.com/42258127/45096556-2c36ce00-b0f7-11e8-80ec-28df5259652c.png)
 
 O orgão governamental responsável pelo 
