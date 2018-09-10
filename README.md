@@ -18,4 +18,9 @@ São 11 as categorias de desastres que acontecem no Brasil: Estiagem e seca, Enx
 
 ![screen shot 2018-09-05 at 12 43 31](https://user-images.githubusercontent.com/42258127/45104925-804aae00-b109-11e8-9379-d117350fd317.png)
 
-O orgão governamental responsável pelo 
+O orgão governamental responsável por coordenar as ações de proteção e defesa civil relativas a desastres em todo o território nacional é o Ministério da Integração Macional, através da Secretaria Nacional de Proteção e Defesa Civil - SEDEC. Mas é através da atuação das Defesas Civis municipais que se dão as inciativas para redução dos riscos e resposta aos desastres. 
+
+### Perguntas de Pesquisa
+Quando se trata de desastres, algumas perguntas de pesquisa são centrais e grupos de pesquisa em todo o globo buscam responser a questões como "quais grupos são mais vulneráveis a desastres?", "quais fatores são responsáveis pelo incremento de vulnerabilidade a desastres?", "quais fatores se apresentam como potenciais redutores do risco de desastres?".
+
+SADIA e colaboradores (2016) 
