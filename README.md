@@ -23,4 +23,9 @@ O orgão governamental responsável por coordenar as ações de proteção e def
 ### Perguntas de Pesquisa
 Quando se trata de desastres, algumas perguntas de pesquisa são centrais e grupos de pesquisa em todo o globo buscam responser a questões como "quais grupos são mais vulneráveis a desastres?", "quais fatores são responsáveis pelo incremento de vulnerabilidade a desastres?", "quais fatores se apresentam como potenciais redutores do risco de desastres?".
 
-SADIA e colaboradores (2016) 
+SADIA e colaboradores (2016) trazem em sua publicação interessantes dados de diferentes eventos de desastres ao longo da história e o consequente alto número de mortes entre as mulheres: terremoto na Rússia em 1948, terremoto de 1976 na Guatemala, de 1992 no Egito, o devastador ciclone no sul da Ásia em 1991 e o tsunami de 2004 na Indonésia, em que os dados de mortalidade por desastres apontam as mulheres como grupo mais vulnerável.
+
+
+
+
+
