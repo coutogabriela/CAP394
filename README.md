@@ -46,4 +46,10 @@ O desafio aqui colocado é metodológico e conceitual.
 
 Metodologicamente é preciso entender se os dados do S2ID e de Mortalidade do MS são correlacionáveis. Se é possível de correlacioná-los para então tentar sobrepassar o desafio conceitual e responder quem morre por desastres  no Brasil e se são as mulheres brasileiras mais vulneráveis a desastres do que os homens.
 
+Com uso de Data Science, com uso do Rstudio, espera-se superar incialemnte o desafio metodológico para então buscar responder as questões conceituais.
+
+![desafio_metodol](https://user-images.githubusercontent.com/42258127/45463234-a65fe780-b6e1-11e8-9a18-c6aa07674877.png)
+
+#### Referências
+
 
