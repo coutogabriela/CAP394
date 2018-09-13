@@ -40,4 +40,10 @@ São duas as categorias de dados:
 
 2. Dados de Mortalidade do Ministério da Saúde (http://www2.datasus.gov.br), que contém Estatísticas vitais de Mortalidade - Categorias CID10, que possui alguma sub-categorias de mortalidade relacionadas a “forças da natureza”. Os dados estão disponíveis desde o ano de 1996 e os "mortos" estão sub-classificados por sexo, cor, raça, nível educacional, estado civil e outros.
 
+### O desafio
+
+O desafio aqui colocado é metodológico e conceitual.
+
+Metodologicamente é preciso entender se os dados do S2ID e de Mortalidade do MS são correlacionáveis. Se é possível de correlacioná-los para então tentar sobrepassar o desafio conceitual e responder quem morre por desastres  no Brasil e se são as mulheres brasileiras mais vulneráveis a desastres do que os homens.
+
 
