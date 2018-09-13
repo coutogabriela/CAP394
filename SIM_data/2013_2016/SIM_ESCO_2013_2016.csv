@@ -1,0 +1,437 @@
+ Mortalidade - Brasil
+Óbitos p/Residênc por Município e Escolaridade
+Categoria CID-10: X30   Exposicao a calor natural excessivo, X31   Exposicao a frio natural excessivo, X32   Exposicao a luz solar, X33   Vitima de raio, X34   Vitima de terremoto, X35   Vitima de erupcao vulcanica, X36   Vitima avalanc desab terra out mov sup terr, X37   Vitima de tempestade cataclismica, X38   Vitima de inundacao, X39   Exposicao a outr forcas da natureza e as NE
+Período:2013-2016
+"Município";"Nenhuma";"1 a 3 anos";"4 a 7 anos";"8 a 11 anos";"12 anos e mais";"Ignorado";"Total"
+"110034 Alvorada D'Oeste";-;-;-;-;-;1;1
+"110004 Cacoal";-;-;-;-;-;1;1
+"110005 Cerejeiras";-;-;1;-;-;-;1
+"110110 Itapuã do Oeste";-;1;-;-;-;-;1
+"110014 Nova Brasilândia D'Oeste";1;-;-;-;-;-;1
+"110020 Porto Velho";-;-;-;1;-;1;2
+"110026 Rio Crespo";-;-;1;-;-;-;1
+"110149 São Francisco do Guaporé";-;-;-;-;-;1;1
+"110160 Theobroma";-;-;-;-;-;1;1
+"110030 Vilhena";-;1;-;-;-;-;1
+"130060 Benjamin Constant";-;-;-;-;-;1;1
+"130068 Boa Vista do Ramos";-;1;-;-;-;-;1
+"130080 Borba";-;-;-;1;-;-;1
+"130110 Careiro";-;1;-;-;-;-;1
+"130130 Codajás";-;-;-;-;-;1;1
+"130140 Eirunepé";1;-;1;-;-;-;2
+"130170 Humaitá";-;2;-;1;-;-;3
+"130185 Iranduba";-;-;1;-;-;-;1
+"130190 Itacoatiara";-;-;1;3;-;-;4
+"130255 Manaquiri";-;-;1;-;-;-;1
+"130260 Manaus";-;3;1;-;-;-;4
+"130270 Manicoré";-;-;2;1;-;-;3
+"130310 Nova Olinda do Norte";-;-;-;1;-;-;1
+"130350 Pauini";1;-;1;-;-;-;2
+"130380 São Gabriel da Cachoeira";2;-;1;1;-;1;5
+"130395 São Sebastião do Uatumã";-;-;1;-;-;-;1
+"130406 Tabatinga";-;-;-;2;-;-;2
+"130410 Tapauá";-;-;-;-;-;1;1
+"130420 Tefé";1;-;-;-;-;-;1
+"140070 Uiramutã";-;-;1;-;-;-;1
+"150040 Alenquer";-;-;1;-;-;-;1
+"150050 Almeirim";-;1;-;-;-;-;1
+"150080 Ananindeua";-;-;-;-;-;1;1
+"150140 Belém";1;-;-;-;-;1;2
+"150180 Breves";-;-;1;-;-;-;1
+"150240 Castanhal";-;1;-;-;-;-;1
+"150260 Colares";-;-;1;-;-;-;1
+"150275 Concórdia do Pará";-;-;-;1;-;-;1
+"150290 Curuçá";1;-;-;-;-;-;1
+"150307 Garrafão do Norte";-;-;1;-;-;-;1
+"150350 Irituia";-;-;-;1;-;-;1
+"150360 Itaituba";1;-;5;2;-;3;11
+"150375 Jacareacanga";1;-;-;-;-;3;4
+"150400 Limoeiro do Ajuru";-;-;1;-;-;-;1
+"150442 Marituba";-;-;-;1;-;-;1
+"150470 Moju";1;-;-;-;-;-;1
+"150480 Monte Alegre";-;-;1;-;-;-;1
+"150510 Óbidos";-;1;-;-;-;-;1
+"150540 Ourém";-;-;1;-;-;-;1
+"150548 Pacajá";1;-;-;-;-;-;1
+"150553 Parauapebas";-;-;-;-;-;1;1
+"150613 Redenção";-;1;-;-;-;-;1
+"150630 Salvaterra";-;-;1;-;-;-;1
+"150650 Santa Izabel do Pará";1;-;-;-;-;-;1
+"150660 Santa Maria do Pará";-;1;-;-;-;1;2
+"150670 Santana do Araguaia";-;-;1;-;-;-;1
+"150680 Santarém";-;-;1;-;-;-;1
+"150730 São Félix do Xingu";-;1;-;1;-;-;2
+"150745 São Geraldo do Araguaia";-;-;-;1;-;-;1
+"150760 São Miguel do Guamá";-;1;-;-;-;-;1
+"150790 Soure";-;1;-;-;-;-;1
+"150800 Tomé-Açu";1;-;-;-;-;-;1
+"160030 Macapá";-;1;-;1;-;-;2
+"170030 Aguiarnópolis";-;-;-;1;-;-;1
+"170130 Aragominas";-;-;-;-;-;1;1
+"170650 Darcinópolis";-;-;1;-;-;-;1
+"170770 Filadélfia";-;-;1;-;-;-;1
+"171360 Monte do Carmo";-;1;-;-;-;-;1
+"171488 Nova Olinda";-;-;-;1;-;-;1
+"172100 Palmas";-;-;1;-;-;1;2
+"171380 Palmeiras do Tocantins";-;1;-;-;-;-;1
+"171665 Pequizeiro";1;-;-;-;-;-;1
+"171888 Santa Maria do Tocantins";-;-;1;-;-;-;1
+"172110 Tocantínia";-;-;-;1;-;-;1
+"210080 Anapurus";-;-;-;1;-;-;1
+"210090 Araioses";-;-;-;-;-;1;1
+"210120 Bacabal";-;-;1;-;-;-;1
+"210170 Barreirinhas";-;1;-;-;-;-;1
+"210200 Bom Jardim";-;-;1;-;-;-;1
+"210210 Brejo";-;-;1;-;-;-;1
+"210220 Buriti";1;-;-;-;-;-;1
+"210270 Cantanhede";-;-;-;-;1;-;1
+"210340 Coelho Neto";-;-;1;1;-;-;2
+"210355 Conceição do Lago-Açu";-;-;-;-;-;1;1
+"210405 Estreito";-;-;-;-;-;1;1
+"210467 Governador Nunes Freire";-;-;1;-;-;-;1
+"210510 Icatu";-;1;-;-;-;-;1
+"210520 Igarapé Grande";-;-;1;-;-;-;1
+"210530 Imperatriz";-;-;1;-;-;-;1
+"210540 Itapecuru Mirim";-;1;-;-;-;-;1
+"210630 Magalhães de Almeida";1;-;-;-;-;-;1
+"210690 Monção";-;-;-;1;-;-;1
+"210735 Nova Olinda do Maranhão";-;-;1;-;-;-;1
+"210745 Olinda Nova do Maranhão";-;-;1;-;-;-;1
+"210780 Parnarama";1;-;-;-;-;-;1
+"210825 Pedro do Rosário";-;-;1;-;-;-;1
+"210840 Peri Mirim";-;1;-;-;-;-;1
+"210900 Porto Franco";-;-;-;1;-;-;1
+"210910 Presidente Dutra";-;1;-;-;-;-;1
+"210940 Primeira Cruz";-;-;-;-;-;1;1
+"210950 Riachão";-;-;1;-;-;-;1
+"210960 Rosário";-;-;-;1;-;-;1
+"211060 São Bernardo";1;-;-;-;-;-;1
+"211130 São Luís";-;-;-;2;-;-;2
+"211157 São Pedro dos Crentes";-;-;1;-;-;-;1
+"211176 Senador La Rocque";-;-;1;-;-;-;1
+"211245 Turilândia";-;-;-;1;-;-;1
+"211250 Tutóia";-;-;2;1;-;-;3
+"220120 Barras";-;-;1;-;-;1;2
+"220150 Batalha";-;1;-;-;-;-;1
+"220205 Cabeceiras do Piauí";-;1;-;-;-;-;1
+"220370 Esperantina";-;-;1;-;-;-;1
+"220375 Fartura do Piauí";-;1;-;-;-;-;1
+"220500 Itainópolis";1;-;-;-;-;-;1
+"220515 Jacobina do Piauí";-;-;1;-;-;-;1
+"220540 Joaquim Pires";-;-;-;1;-;-;1
+"220580 Luzilândia";-;1;-;-;-;-;1
+"220695 Novo Santo Antônio";-;-;1;-;-;-;1
+"221010 São José do Peixe";-;-;1;-;-;-;1
+"221100 Teresina";1;-;-;-;-;-;1
+"230205 Barroquinha";-;1;-;-;-;-;1
+"230250 Brejo Santo";-;1;-;-;-;-;1
+"230370 Caucaia";-;1;-;-;-;-;1
+"230440 Fortaleza";-;-;1;-;-;1;2
+"230580 Ipu";1;-;-;-;-;-;1
+"230710 Jardim";-;-;1;-;-;-;1
+"231030 Parambu";-;-;-;-;-;1;1
+"231100 Poranga";-;-;-;-;-;1;1
+"231195 Salitre";-;-;-;1;-;-;1
+"231200 Santana do Acaraú";-;-;1;-;-;-;1
+"231230 São Benedito";1;-;-;-;-;-;1
+"240310 Currais Novos";-;1;-;-;-;-;1
+"240450 Guamaré";-;-;1;-;-;1;2
+"240810 Natal";-;-;-;-;-;1;1
+"241440 Touros";-;-;-;-;-;1;1
+"251450 São José de Piranhas";-;-;-;-;1;-;1
+"260010 Afogados da Ingazeira";-;-;1;-;-;-;1
+"261430 Moreilândia";1;-;-;-;-;-;1
+"261030 Paranatama";-;-;-;-;-;1;1
+"261160 Recife";-;1;1;1;-;-;3
+"261245 Santa Cruz";1;-;-;-;-;-;1
+"261370 São Lourenço da Mata";-;1;-;-;-;-;1
+"290020 Abaré";-;1;-;-;-;-;1
+"290160 Antas";-;-;1;-;-;-;1
+"290327 Barrocas";-;-;-;-;-;1;1
+"290740 Catolândia";-;1;-;-;-;-;1
+"290930 Correntina";-;-;-;-;-;1;1
+"291070 Euclides da Cunha";-;-;-;1;-;-;1
+"291080 Feira de Santana";-;-;-;1;-;-;1
+"291130 Gentio do Ouro";-;-;1;-;-;-;1
+"291270 Ibirapitanga";-;1;-;-;-;-;1
+"291410 Ipupiara";-;-;-;-;-;1;1
+"291480 Itabuna";-;1;-;-;-;-;1
+"291750 Jacobina";-;1;-;-;-;-;1
+"291840 Juazeiro";-;1;-;-;-;-;1
+"291845 Jucuruçu";-;-;-;-;-;1;1
+"291860 Jussiape";-;-;1;-;-;-;1
+"291900 Lajedinho";-;-;-;-;-;7;7
+"291915 Lapão";-;-;1;-;-;-;1
+"291990 Macururé";-;-;-;-;-;1;1
+"292200 Mucuri";-;1;-;-;-;-;1
+"292350 Palmeiras";-;-;1;-;-;-;1
+"292740 Salvador";-;-;3;-;-;-;3
+"292890 São Desidério";-;-;-;-;-;1;1
+"292990 Seabra";-;1;-;-;-;-;1
+"293345 Wanderley";-;-;2;-;-;-;2
+"290000 Município ignorado - BA";-;-;-;-;-;1;1
+"310190 Alpinópolis";-;-;1;-;-;-;1
+"310210 Alto Rio Doce";-;-;-;-;-;1;1
+"310290 Antônio Carlos";-;-;-;-;1;-;1
+"310540 Barão de Cocais";-;-;1;-;-;-;1
+"310600 Bela Vista de Minas";-;-;-;-;-;1;1
+"310620 Belo Horizonte";-;1;2;1;-;1;5
+"310670 Betim";-;-;-;-;-;2;2
+"311050 Camanducaia";-;-;1;-;-;-;1
+"311535 Catas Altas";-;1;-;-;-;-;1
+"311810 Congonhas do Norte";-;-;-;1;-;-;1
+"311830 Conselheiro Lafaiete";-;-;-;-;-;1;1
+"311860 Contagem";-;-;1;-;-;-;1
+"312050 Cristina";-;-;-;1;-;-;1
+"312140 Desterro de Entre Rios";-;1;-;-;-;-;1
+"312300 Dores de Campos";-;1;-;-;-;-;1
+"312310 Dores de Guanhães";-;-;1;-;-;-;1
+"312330 Dores do Turvo";-;-;-;-;-;1;1
+"312675 Franciscópolis";-;1;-;-;-;-;1
+"312700 Fronteira";-;-;1;-;-;-;1
+"312770 Governador Valadares";-;1;-;-;-;1;2
+"312910 Gurinhatã";-;-;1;-;-;-;1
+"312980 Ibirité";-;-;1;-;-;-;1
+"313170 Itabira";-;-;-;-;1;-;1
+"313440 Iturama";-;-;-;-;-;1;1
+"313520 Januária";-;-;-;-;-;1;1
+"313670 Juiz de Fora";-;1;-;-;-;4;5
+"313920 Malacacheta";1;-;-;-;-;-;1
+"313990 Maria da Fé";-;-;-;-;-;1;1
+"314000 Mariana";2;1;2;2;-;1;8
+"314210 Miradouro";-;-;-;-;-;1;1
+"314330 Montes Claros";-;-;-;-;-;1;1
+"314400 Mutum";-;1;-;-;-;-;1
+"314480 Nova Lima";-;1;-;1;-;-;2
+"314610 Ouro Preto";-;-;2;1;-;1;4
+"314620 Ouro Verde de Minas";1;-;-;-;-;-;1
+"314630 Padre Paraíso";-;-;1;-;-;-;1
+"314690 Papagaios";-;-;-;1;-;-;1
+"314760 Passa Quatro";-;-;-;1;-;-;1
+"315140 Pitangui";-;-;-;-;-;1;1
+"315430 Resplendor";-;2;2;-;-;-;4
+"315460 Ribeirão das Neves";-;-;1;2;-;-;3
+"315490 Rio Casca";-;-;-;-;-;1;1
+"315600 Rio Vermelho";-;-;1;-;-;-;1
+"315690 Sacramento";-;-;1;-;-;-;1
+"315720 Santa Bárbara";-;1;2;-;-;-;3
+"315990 Santo Antônio do Amparo";-;-;1;-;-;-;1
+"316110 São Francisco";-;-;-;1;-;-;1
+"316294 São José da Barra";-;-;-;1;-;-;1
+"316620 Senhora dos Remédios";-;1;-;1;-;-;2
+"316710 Serro";-;-;-;-;-;1;1
+"316720 Sete Lagoas";-;-;-;1;-;-;1
+"316930 Três Corações";-;-;-;-;-;2;2
+"316935 Três Marias";-;-;-;-;-;1;1
+"317040 Unaí";1;-;-;-;-;-;1
+"320120 Cachoeiro de Itapemirim";-;-;-;-;-;1;1
+"320130 Cariacica";-;-;-;1;-;-;1
+"320150 Colatina";-;-;-;-;-;1;1
+"320490 São Mateus";-;-;1;-;-;-;1
+"330010 Angra dos Reis";-;-;3;-;-;-;3
+"330040 Barra Mansa";-;-;1;-;-;1;2
+"330080 Cachoeiras de Macacu";-;-;-;-;-;1;1
+"330190 Itaboraí";-;-;1;-;-;-;1
+"330330 Niterói";-;-;1;-;-;-;1
+"330350 Nova Iguaçu";-;1;-;-;-;-;1
+"330390 Petrópolis";2;13;5;7;3;5;35
+"330455 Rio de Janeiro";1;2;6;3;1;1;14
+"330490 São Gonçalo";-;-;1;-;-;-;1
+"330510 São João de Meriti";-;1;-;1;-;-;2
+"350160 Americana";-;-;-;-;-;1;1
+"350450 Avaré";-;-;-;-;1;-;1
+"350560 Barrinha";-;-;-;-;-;1;1
+"350600 Bauru";-;-;1;-;-;-;1
+"350715 Bom Sucesso de Itararé";-;1;-;-;-;-;1
+"350770 Braúna";-;-;-;-;1;-;1
+"350920 Cajamar";-;1;-;1;-;-;2
+"350950 Campinas";-;-;-;-;-;1;1
+"350960 Campo Limpo Paulista";-;-;1;-;-;-;1
+"351020 Capão Bonito";-;-;-;-;-;1;1
+"351060 Carapicuíba";-;-;2;-;-;-;2
+"351340 Cruzeiro";-;-;-;-;-;2;2
+"351510 Embu-Guaçu";-;-;2;-;-;-;2
+"351540 Fartura";-;-;-;1;-;-;1
+"351620 Franca";1;1;-;-;-;-;2
+"351630 Francisco Morato";-;1;2;5;-;-;8
+"351870 Guarujá";-;1;1;-;-;-;2
+"351880 Guarulhos";1;-;2;-;-;-;3
+"351980 Icém";-;-;1;-;-;-;1
+"352215 Itaóca";-;1;-;-;1;-;2
+"352220 Itapecerica da Serra";-;-;1;3;-;1;5
+"352250 Itapevi";-;-;2;-;-;-;2
+"352260 Itapira";-;-;-;-;-;1;1
+"352265 Itapirapuã Paulista";-;-;1;-;-;-;1
+"352390 Itu";-;-;-;-;-;1;1
+"352400 Itupeva";-;-;-;-;2;-;2
+"352500 Jandira";-;-;1;-;-;-;1
+"352590 Jundiaí";-;-;-;-;1;-;1
+"352690 Limeira";-;-;-;-;-;1;1
+"352850 Mairiporã";-;-;-;-;-;1;1
+"352900 Marília";-;-;1;1;-;-;2
+"352990 Miracatu";-;-;-;-;-;1;1
+"353020 Mirante do Paranapanema";-;-;-;1;-;-;1
+"353060 Mogi das Cruzes";-;1;-;-;-;-;1
+"353205 Motuca";-;-;-;-;-;1;1
+"353440 Osasco";-;-;2;-;-;-;2
+"353560 Paraibuna";-;-;-;-;-;1;1
+"353800 Pindamonhangaba";-;-;-;-;-;1;1
+"354150 Presidente Venceslau";-;-;-;1;-;-;1
+"354210 Rafard";-;-;-;-;-;1;1
+"354280 Ribeira";-;1;1;-;-;-;2
+"354300 Ribeirão Branco";-;-;1;-;-;-;1
+"354340 Ribeirão Preto";-;-;1;-;-;-;1
+"354420 Riolândia";-;-;-;-;-;1;1
+"354730 Santana de Parnaíba";-;1;2;-;-;1;4
+"354780 Santo André";-;2;-;-;-;-;2
+"354890 São Carlos";-;-;-;-;-;1;1
+"354910 São João da Boa Vista";-;-;1;1;-;-;2
+"354990 São José dos Campos";-;-;-;-;2;4;6
+"355030 São Paulo";-;2;5;5;4;4;20
+"355050 São Pedro do Turvo";-;-;-;-;-;1;1
+"355070 São Sebastião";-;-;1;1;-;-;2
+"355100 São Vicente";-;-;1;1;-;-;2
+"355150 Serrana";-;-;1;-;-;-;1
+"355170 Sertãozinho";-;-;1;-;-;-;1
+"355220 Sorocaba";-;-;-;1;-;-;1
+"355430 Teodoro Sampaio";-;-;-;1;-;-;1
+"355700 Votorantim";-;-;1;-;-;-;1
+"350000 Município ignorado - SP";-;-;-;-;-;3;3
+"410250 Barbosa Ferraz";-;-;-;-;-;1;1
+"410395 Campina do Simão";-;-;1;-;-;-;1
+"410420 Campo Largo";-;1;-;-;-;-;1
+"410640 Cornélio Procópio";-;-;1;-;-;-;1
+"410660 Cruzeiro do Oeste";-;-;-;-;-;1;1
+"410670 Cruzeiro do Sul";-;-;1;-;-;-;1
+"410690 Curitiba";-;-;1;-;-;-;1
+"410775 Figueira";-;-;1;-;-;-;1
+"410785 Flor da Serra do Sul";-;-;1;-;-;-;1
+"410930 Guaraniaçu";-;-;-;1;-;-;1
+"410940 Guarapuava";-;-;-;1;-;-;1
+"411070 Irati";-;-;1;-;-;-;1
+"411180 Jacarezinho";-;-;-;1;-;-;1
+"411330 Laranjeiras do Sul";-;-;-;-;1;1;2
+"411370 Londrina";-;-;-;-;-;1;1
+"411580 Medianeira";-;-;1;-;-;2;3
+"411890 Pérola";-;-;-;1;-;1;2
+"411960 Pitanga";-;-;-;-;1;-;1
+"411990 Ponta Grossa";-;1;2;-;-;-;3
+"412020 Porto Rico";-;-;1;-;-;-;1
+"412060 Prudentópolis";-;1;-;-;-;-;1
+"412100 Querência do Norte";-;1;-;-;-;-;1
+"412175 Reserva do Iguaçu";-;-;-;1;-;-;1
+"412330 Santa Cruz de Monte Castelo";-;-;1;-;-;-;1
+"412510 São João do Triunfo";1;-;-;-;-;-;1
+"412665 Sulina";-;-;-;1;-;-;1
+"412820 União da Vitória";-;-;1;-;-;-;1
+"420200 Balneário Camboriú";-;-;-;-;-;1;1
+"420230 Biguaçu";-;-;1;-;-;-;1
+"420300 Caçador";-;-;-;1;-;-;1
+"420310 Caibi";-;-;1;-;-;-;1
+"420360 Campos Novos";-;-;1;-;-;-;1
+"420440 Coronel Freitas";-;-;-;-;1;-;1
+"420460 Criciúma";-;1;-;-;-;-;1
+"420480 Curitibanos";-;-;1;-;-;-;1
+"420650 Guaramirim";-;1;-;-;-;-;1
+"420970 Lebon Régis";-;-;1;-;-;-;1
+"421010 Mafra";-;-;1;-;-;-;1
+"421335 Ponte Alta do Norte";-;-;2;1;-;-;3
+"421360 Porto União";-;1;-;-;-;-;1
+"421500 Rio Negrinho";-;-;-;1;-;-;1
+"421600 São Carlos";-;-;-;1;-;-;1
+"421650 São Joaquim";-;-;-;2;-;-;2
+"421950 Xanxerê";-;1;1;-;-;-;2
+"421985 Zortéa";-;-;-;1;-;-;1
+"430130 Arroio Grande";-;-;-;-;-;1;1
+"430235 Bom Princípio";-;-;-;-;-;2;2
+"430390 Campo Bom";-;1;-;-;-;-;1
+"430420 Candelária";-;1;-;-;-;-;1
+"430450 Canguçu";-;-;-;-;-;1;1
+"430460 Canoas";-;-;1;-;-;-;1
+"430463 Capão da Canoa";-;-;1;-;-;-;1
+"430512 Cerrito";-;-;1;-;-;-;1
+"430670 Dona Francisca";-;-;1;-;-;-;1
+"430955 Harmonia";-;-;-;-;-;1;1
+"431215 Mato Leitão";-;-;1;-;-;-;1
+"431230 Miraguaí";-;-;1;-;-;-;1
+"431300 Nova Bréscia";-;-;-;-;-;1;1
+"431410 Passo Fundo";-;-;1;-;-;-;1
+"431690 Santa Maria";-;-;1;-;-;-;1
+"431720 Santa Rosa";-;-;-;-;-;1;1
+"431800 São Borja";-;-;1;-;-;-;1
+"431915 São Miguel das Missões";-;-;-;1;-;-;1
+"432050 Sertão";-;-;-;-;-;1;1
+"500090 Antônio João";1;-;-;-;-;-;1
+"500215 Bodoquena";-;-;-;1;-;-;1
+"500240 Caarapó";-;1;1;-;-;-;2
+"500270 Campo Grande";-;-;1;-;-;1;2
+"500370 Dourados";-;-;1;-;-;1;2
+"500400 Glória de Dourados";-;-;1;-;-;-;1
+"500430 Iguatemi";1;1;-;-;-;-;2
+"500480 Japorã";1;-;1;-;-;-;2
+"500560 Miranda";1;-;-;-;-;-;1
+"500568 Mundo Novo";-;1;-;-;-;-;1
+"500600 Nova Alvorada do Sul";-;1;-;-;-;-;1
+"500620 Nova Andradina";-;-;-;1;-;-;1
+"500627 Paraíso das Águas";-;-;1;-;-;-;1
+"500635 Paranhos";-;-;1;-;-;1;2
+"500740 Rio Verde de Mato Grosso";-;-;2;-;-;-;2
+"500780 Selvíria";-;-;1;-;-;-;1
+"500770 Sete Quedas";-;-;-;-;-;1;1
+"500790 Sidrolândia";-;1;1;-;-;-;2
+"500793 Sonora";-;-;1;-;-;-;1
+"500795 Tacuru";-;-;-;1;-;-;1
+"500840 Vicentina";-;-;-;2;-;-;2
+"510025 Alta Floresta";1;-;-;-;-;-;1
+"510030 Alto Araguaia";-;-;1;-;-;-;1
+"510080 Apiacás";-;-;1;-;-;-;1
+"510170 Barra do Bugres";-;1;-;-;-;-;1
+"510279 Carlinda";-;-;-;-;-;1;1
+"510340 Cuiabá";-;1;-;1;-;-;2
+"510410 Guarantã do Norte";-;1;-;1;-;-;2
+"510480 Jaciara";-;1;-;-;-;-;1
+"510515 Juína";-;-;2;-;-;-;2
+"510525 Lucas do Rio Verde";-;-;-;1;-;-;1
+"510617 Nova Nazaré";-;-;1;-;-;-;1
+"510642 Peixoto de Azevedo";-;-;1;-;-;-;1
+"510682 Porto Esperidião";-;1;-;-;-;-;1
+"510760 Rondonópolis";-;1;-;-;-;-;1
+"510730 São José do Rio Claro";-;-;-;-;-;1;1
+"510795 Tangará da Serra";-;1;1;-;-;-;2
+"510550 Vila Bela da Santíssima Trindade";-;-;-;-;-;1;1
+"520110 Anápolis";-;-;-;2;-;-;2
+"520140 Aparecida de Goiânia";-;3;1;-;-;-;4
+"520330 Bela Vista de Goiás";-;-;-;1;-;-;1
+"520551 Cocalzinho de Goiás";-;1;-;-;-;-;1
+"520620 Cristalina";-;-;1;-;-;-;1
+"520660 Cumari";-;1;-;-;-;-;1
+"520860 Goianésia";1;-;-;-;-;-;1
+"520890 Goiás";-;-;-;-;-;1;1
+"520940 Guarani de Goiás";-;-;1;-;-;-;1
+"520993 Inaciolândia";-;-;-;-;-;1;1
+"521000 Inhumas";-;1;-;-;-;-;1
+"521010 Ipameri";-;-;-;1;-;-;1
+"521090 Itapaci";-;1;-;-;-;-;1
+"521205 Jesúpolis";-;-;1;-;-;-;1
+"521250 Luziânia";-;-;-;1;-;-;1
+"521305 Mimoso de Goiás";-;1;-;-;-;-;1
+"521310 Mineiros";-;-;1;-;-;-;1
+"521410 Mutunópolis";-;-;1;-;-;-;1
+"521523 Novo Gama";1;-;-;-;-;-;1
+"521770 Pontalina";-;-;-;-;-;1;1
+"521830 Posse";-;1;-;-;-;-;1
+"521850 Quirinópolis";-;-;-;-;-;1;1
+"522070 Sítio d'Abadia";-;-;-;1;-;-;1
+"522119 Terezópolis de Goiás";-;1;-;-;-;-;1
+"522140 Trindade";1;-;-;-;-;-;1
+"522170 Uruana";-;1;-;1;-;-;2
+"520000 Município ignorado - GO";-;-;1;-;-;-;1
+"530010 Brasília";-;1;1;1;2;3;8
+"Total";44;121;204;116;25;143;653
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ 
