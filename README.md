@@ -25,7 +25,8 @@ Quando se trata de desastres, algumas perguntas de pesquisa são centrais e grup
 
 SADIA e colaboradores (2016) trazem em sua publicação interessantes dados de diferentes eventos de desastres ao longo da história e o consequente alto número de mortes entre as mulheres: terremoto na Rússia em 1948, terremoto de 1976 na Guatemala, de 1992 no Egito, o devastador ciclone no sul da Ásia em 1991 e o tsunami de 2004 na Indonésia, em que os dados de mortalidade por desastres apontam as mulheres como grupo mais vulnerável.
 
+ARYAL (2014) traz importantes dados de como no Nepal educação e renda são importante elementos responsáveis pelo aumento de vulnerabilidade a desastres. OFRENEO & HEGA (2016) apontam, através de dois estudos de caso nas Philipinas, de como a troca de informações em redes de convivio com uso de novas tecnologias pode se apresentar como potencial elemento redutor do risco a desastres.
 
+No Brasil importantes perguntas de pesquisa ainda se encontram sem respostas: “Quem” morre por desastres no Brasil?, "São as familias de baixa renda as mais vulneráveis a desastres?", "O grau de escolaridade pode ser fator chave para redução do risco no Brasil?", "É a vulnerabilidade a desastres no Brasil específica para gênero? São as mulheres e meninas brasileiras mais vulneráveis?", entre outras.
 
-
-
+### Os dados
