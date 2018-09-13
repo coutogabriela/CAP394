@@ -30,3 +30,7 @@ ARYAL (2014) traz importantes dados de como no Nepal educação e renda são imp
 No Brasil importantes perguntas de pesquisa ainda se encontram sem respostas: “Quem” morre por desastres no Brasil?, "São as familias de baixa renda as mais vulneráveis a desastres?", "O grau de escolaridade pode ser fator chave para redução do risco no Brasil?", "É a vulnerabilidade a desastres no Brasil específica para gênero? São as mulheres e meninas brasileiras mais vulneráveis?", entre outras.
 
 ### Os dados
+
+São duas as categorias de dados:
+1. Dados do Ministério da Integração Nacional: dados de número absolutos de afetados por desastres no Brasil (https://s2id.mi.gov.br) disponíveis em plataforma online para os anos 2013 até dias atuais. São planilhas csv. apresentadas por estado x ano contendo a tipologia do desastre e o numero absoluto de desastres (conforme ilustra figura abaixo)
+
