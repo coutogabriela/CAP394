@@ -48,8 +48,6 @@ Metodologicamente é preciso entender se os dados do S2ID e de Mortalidade do MS
 
 Com uso de Data Science, com uso do Rstudio, espera-se superar incialemnte o desafio metodológico para então buscar responder as questões conceituais.
 
-![desafio_metodol](https://user-images.githubusercontent.com/42258127/45463234-a65fe780-b6e1-11e8-9a18-c6aa07674877.png)
-
 #### Referências
 
 
