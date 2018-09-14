@@ -48,6 +48,7 @@ Metodologicamente é preciso entender se os dados do S2ID e de Mortalidade do MS
 
 Com uso de Data Science, com uso do Rstudio, espera-se superar incialemnte o desafio metodológico para então buscar responder as questões conceituais.
 
+
 #### Referências
 
 ARYAL, K. Women's Empowerment in Building Disaster Resilient Communities. Asian Journal of Women's Studies, v. 20, n. 1, p. 164-174, 2014.
@@ -57,4 +58,7 @@ CEPED. Atlas brasileiro de desastres naturais 1991 a 2012: volume Brasil. Floria
 OFRENEO, R. P. & HEGA, M. D. Women’s solidarity economy initiatives to strengthen food security in response to disasters: Insights from two Philippine case studies. Disaster Prevention and Management, v. 25, n. 2, p. 168-182, 2016.
 
 SADIA, H. et al. Gender-sensitive public health risks and vulnerabilities’ assessment with reference to floods in Pakistan. International Journal of Disaster Risk Reduction, v. 19, p. 47-56, 2016.
+
+#### Imagens
+Estadão, 2017 - disponível em https://sustentabilidade.estadao.com.br/blogs/ambiente-se/desastres-naturais-custaram-ao-brasil-r-182-bi-em-20-anos/
 
