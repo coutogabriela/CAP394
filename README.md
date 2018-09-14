@@ -61,5 +61,6 @@ SADIA, H. et al. Gender-sensitive public health risks and vulnerabilities’ ass
 
 #### Imagens
 Estadão, 2017 - disponível em https://sustentabilidade.estadao.com.br/blogs/ambiente-se/desastres-naturais-custaram-ao-brasil-r-182-bi-em-20-anos/
+
 WWF, 2017 - disponível em https://www.wwf.org.br/natureza_brasileira/reducao_de_impactos2/clima/copy_of_mudancas_climaticas2_20062017_1938/
 
